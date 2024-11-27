@@ -8,4 +8,3 @@ Here: https://github.com/UltimaKaosXIII/STE2/releases
 Known issues. DO NOT REPORT THESE TO ME:
 - No textures.
 - No materials.
-- No UVs.

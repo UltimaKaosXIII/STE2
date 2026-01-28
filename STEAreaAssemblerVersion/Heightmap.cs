@@ -25,7 +25,6 @@ namespace STEAreaAssemblerVersion
         public int numFaces;
         public Vector3[] verts;
         public Vector2[] uvs;
-        private Dictionary<int, string> areaTextures;
         public void Read(string instanceID, byte[] vertexData, string outPath, string datPath, Vector3? Positions)
         {
             try
@@ -272,3 +271,4 @@ namespace STEAreaAssemblerVersion
         }
     }
 }
+
